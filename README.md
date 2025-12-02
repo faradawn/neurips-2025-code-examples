@@ -1,11 +1,8 @@
-# NeurIPS 2025 Code Examples
+# NeurIPS 2025 Demos
 
-### Demo 1: Training and fine-tuning on DGX Spark
+### $20 Free GPU credit on NVIDIA Brev (fist 100 sign ups only)
 
-https://build.nvidia.com/spark/llama-factory
+https://brev.nvidia.com/org/f1k17b809/billing?coupon=neurips-dec-2025
 
-### Demo 2: Inference with TRTLLM and PyTorch on DGX Spark 
 
-### Demo 3: Real-Time 480P video generation with FastVideo and SGLang on Brev
-
-### Demo 4: Dynamo Consolidated Exemplar
+<img width="1011" height="507" alt="Screenshot 2025-12-02 at 12 44 21 PM" src="https://github.com/user-attachments/assets/1b3f20c0-401d-4b3c-a152-b7f9b5f52053" />
